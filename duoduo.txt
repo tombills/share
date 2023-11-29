@@ -2143,5 +2143,5 @@
     ],
     "wallpaper": "https://tool.weetai.cn/api",
     "warningText": "接口免费整理维护，请勿付费购买",
-    "spider": "https://gitlab.com/hxcs/share/-/blob/main/duoduo.jar;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
+    "spider": "./duoduo.jar;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
 }
