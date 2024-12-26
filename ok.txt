@@ -1,21 +1,44 @@
-//以下内容为互联网收集，只为自用…… https://raw.liucn.cc/box/dm.txt
-{ "storeHouse": [ 
-
-{"sourceName":"  ①多多应用仓
-","sourceUrl":"      https://gitlab.com/hxcs/share/-/raw/main/duoduo.txt
-"},
- 
-{"sourceName":"  ③欧歌API仓
-","sourceUrl":"      http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌
-"},
-
-{"sourceName":"  ④云星日记仓
-","sourceUrl":"      http://itvbox.cc/可视TV/云星日记/仓库.json  
-"},
-
-{"sourceName":"  ⑤号其他仓
-","sourceUrl":"      https://raw.liucn.cc/box/dc.txt
-"}
-
+{
+    "urls": [
+        {
+            "url": "https://肥猫.com",
+            "name": "🚀1-肥猫"
+        },
+        {
+            "url": "https://www.饭太硬.com/tv",
+            "name": "🚀2-饭太硬推荐"
+        },
+        {
+            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+            "name": "🚀3-健康家用"
+        },
+        {
+            "url": "http://ygbh.live/box.php",
+            "name": "🚀4-宝盒线路"
+        },
+        {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": "🚀5-王二小"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "🚀6-我不是.摸鱼儿"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🚀7-巧计线路"
+        },
+        {
+            "url": "https://tv.nxog.top/m/?&CoZ?&FD5",
+            "name": "🚀8-讴歌"
+        },
+        {
+            "url": "https://100km.top/0",
+            "name": "🚀10-骚 0线路"
+        },
+        {
+            "url": "https://ghp.ci/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🚀11-高天流云js"
+        }
     ]
 }
