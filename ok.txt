@@ -13,7 +13,7 @@
             "name": "🚀3-健康家用"
         },
         {
-            "url": "http://ygbh.live/box.php",
+            "url": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
             "name": "🚀4-宝盒线路"
         },
         {
